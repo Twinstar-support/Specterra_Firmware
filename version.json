@@ -4,15 +4,15 @@
     "SPECTERRA_300_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.1.1",
+          "latest_version": "1.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/300_solar_hw1_v1.1.1.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/300_solar_hw1_v1.1.2.bin"
           }
         },
         "2": {
-          "latest_version": "2.0.0",
+          "latest_version": "2.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/300_solar_hw2_v2.0.0.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/300_solar_hw2_v2.1.2.bin"
           }
         }
       }
@@ -20,15 +20,15 @@
     "SPECTERRA_450_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.1.1",
+          "latest_version": "1.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/450_solar_hw1_v1.1.1.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/450_solar_hw1_v1.1.2.bin"
           }
         },
         "2": {
-          "latest_version": "2.0.0",
+          "latest_version": "2.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/450_solar_hw2_v2.0.0.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/450_solar_hw2_v2.1.2.bin"
           }
         }
       }
@@ -36,15 +36,15 @@
     "SPECTERRA_600_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.1.1",
+          "latest_version": "1.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/600_solar_hw1_v1.1.1.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/600_solar_hw1_v1.1.2.bin"
           }
         },
         "2": {
-          "latest_version": "2.0.0",
+          "latest_version": "2.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/600_solar_hw2_v2.0.0.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/600_solar_hw2_v2.1.2.bin"
           }
         }
       }
@@ -52,79 +52,15 @@
     "SPECTERRA_900_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.1.1",
+          "latest_version": "1.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/900_solar_hw1_v1.1.1.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/900_solar_hw1_v1.1.2.bin"
           }
         },
         "2": {
-          "latest_version": "2.0.0",
+          "latest_version": "2.1.2",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/900_solar_hw2_v2.0.0.bin"
-          }
-        }
-      }
-    },
-    "SPECTERRA_300_UV": {
-      "hw": {
-        "1": {
-          "latest_version": "1.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/300_uv_hw1_v1.0.0.bin"
-          }
-        },
-        "2": {
-          "latest_version": "2.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/300_uv_hw2_v2.0.0.bin"
-          }
-        }
-      }
-    },
-    "SPECTERRA_450_UV": {
-      "hw": {
-        "1": {
-          "latest_version": "1.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/450_uv_hw1_v1.0.0.bin"
-          }
-        },
-        "2": {
-          "latest_version": "2.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/450_uv_hw2_v2.0.0.bin"
-          }
-        }
-      }
-    },
-    "SPECTERRA_600_UV": {
-      "hw": {
-        "1": {
-          "latest_version": "1.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/600_uv_hw1_v1.0.0.bin"
-          }
-        },
-        "2": {
-          "latest_version": "2.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/600_uv_hw2_v2.0.0.bin"
-          }
-        }
-      }
-    },
-    "SPECTERRA_900_UV": {
-      "hw": {
-        "1": {
-          "latest_version": "1.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/900_uv_hw1_v1.0.0.bin"
-          }
-        },
-        "2": {
-          "latest_version": "2.0.0",
-          "firmware": {
-            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/900_uv_hw2_v2.0.0.bin"
+            "c2": "https://raw.githubusercontent.com/Twinstar-support/Specterra_Firmware/main/900_solar_hw2_v2.1.2.bin"
           }
         }
       }
